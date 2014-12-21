@@ -1,0 +1,7 @@
+{
+  "name": "SD-VS1053",
+  "author": "Adafruit",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Spark Library for vs1053 SD card"
+}
